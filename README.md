@@ -1,5 +1,5 @@
 # numbers-for-PM-estimation-problems
-This is a chart of useful numbers, rates, and conversions to help with estimation style questions for interviewers. Please feel free to contribute numbers you've found useful or update numbers that have gone out of date. 
+This is a chart of useful numbers, rates, and conversions to help with estimation style questions for interviewers. Please feel free to contribute numbers you've found useful or update numbers that have gone out of date.
 
 
 | Populations   | About     | Actual    | Updated |
@@ -9,9 +9,9 @@ This is a chart of useful numbers, rates, and conversions to help with estimatio
 | US            | 300M      | 319M      |6/28/16  |
 | China         | 1B        | 1.357B    |6/28/16  |
 | India         | 1B        | 1.252B    |6/28/16  |
-| San Francisco | 1M        | 837T      |6/28/16  |
+| San Francisco | 1M        | 837K      |6/28/16  |
 | Houston       | 2M        | 2.196M    |6/28/16  |
-| New Orleans   | 400T      | 378T      |6/28/16  |
+| New Orleans   | 400K      | 378K      |6/28/16  |
 | Internet Users| 3B        | -         |6/28/16  |
 | Small Metro   | <1M       | -         |6/28/16  |
 | Medium Metro  | 1M - 2M   | -         |6/28/16  |
