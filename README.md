@@ -18,20 +18,30 @@ This is a chart of useful numbers, rates, and conversions to help with estimatio
 | Large Metro   | 2M - 3.5M | -         |6/28/16  |
 | XLarge Metro  | >3.5M     | -         |/6/28/16 |
 
-XLarge metro's
-3,500,000 over
+**XLarge metro's**
+
+*3,500,000 over*
+
 NYC, Los Angeles,Chicago, Dallas-Ft.Worth, Boston, Philadephia, Houston, San Francisco Bay, Atlanta, Miami-Ft.lauderdale, Phoenix-Scottsdale, Detroit, Washington D.C.
 
-Large 
-2,000,000-3,500,000
+
+**Large**
+
+*2,000,000-3,500,000*
+
 Seattle-Tacoma, Denver-Boulder, Tampa St.Petersburgh, Cleveland, Pittsburgh, San Antonio, Orlando, Baltimore, Kansas City, Cincinatti, San Diego, St. Louis, Minneapolis-St. Paul, Sacramento, Portland, Newark.
 
-Medium
-1,000,000 - 2,000,000
+
+**Medium**
+
+*1,000,000 - 2,000,000*
+
 Las Vegas,Indianapolis, Charlotte, Austin, Nashville, Columbus, Buffalo, Memphis, Milwaukee, Jacksonville, Oklahoma City, Salt lake City, Raleigh-Durham, Louisville, Rochester, Tucson, New Orleans, Virginia Beach-Norfolk, Providence, Birmingham, Richmond, Hartford.
 
-Small 
-1,000,000 and less.
+**Small**
+
+*1,000,000 and less.*
+
 Omaha, Albuquerque, El Paso, Tulsa, Baton Rouge, Honolulu, Fresno, Grand Rapids, McAllen-Edinburg, TX, Dayton, Greensboro, Little Rock, Akron, Toledo, Knoxville, Scranton-Wilkes-Barre, Boise, Wichita.
 
 
