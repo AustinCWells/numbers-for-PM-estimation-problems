@@ -63,7 +63,7 @@ Omaha, Albuquerque, El Paso, Tulsa, Baton Rouge, Honolulu, Fresno, Grand Rapids,
 | TV Ad per 30sec| $300K     | -         | -       |6/28/16  | 
 | PPC Ad         | $0.30     | $0.05     | $50     |6/28/16  | 
 
-** Notes on PPC ** 
+**Notes on PPC** 
 
 PPC can vary base on the size, type, location, market size, competition, etc. It can easly range from $0.05 to $85. More competitive markets generally have much higher prices. While the bulk of clicks will earn in the $0.05-$0.60 range the most expensive clicks can be major revenue drivers.  
 
