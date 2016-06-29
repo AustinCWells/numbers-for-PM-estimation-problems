@@ -58,7 +58,12 @@ Omaha, Albuquerque, El Paso, Tulsa, Baton Rouge, Honolulu, Fresno, Grand Rapids,
 | Registered users to use service daily     | 10%       | -         |6/28/16  | -                               |
 | Maximum number of users to use concurently| 10%       | -         |6/28/16  | -                               |
 
-| Prices         | About     | Min       | Max     | Updated |Source                           |
-| -------------  |-----------|-----------|---------|---------|---------------------------------|
-| TV Ad per 30sec| $300K     | -         | -       |6/28/16  | -                               |
-| PPC Ad         | $0.30     | $0.05     | $50     |6/28/16  | [Most Expensive](http://www.wordstream.com/articles/most-expensive-keywords) [Avg PPC](http://www.statisticbrain.com/average-publisher-revenue-from-ppc-banner-advertisements/)                        |
+| Prices         | About     | Min       | Max     | Updated |
+| -------------  |-----------|-----------|---------|---------|
+| TV Ad per 30sec| $300K     | -         | -       |6/28/16  | 
+| PPC Ad         | $0.30     | $0.05     | $50     |6/28/16  | 
+
+** Notes on PPC ** 
+PPC can vary base on the size, type, location, market size, competition, etc. It can easly range from $0.05 to $85. More competitive markets generally have much higher prices. While the bulk of clicks will earn in the $0.05-$0.60 range the most expensive clicks can be major revenue drivers.  
+[Most Expensive](http://www.wordstream.com/articles/most-expensive-keywords), 
+[Avg PPC](http://www.statisticbrain.com/average-publisher-revenue-from-ppc-banner-advertisements/)|
