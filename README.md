@@ -65,7 +65,7 @@ Omaha, Albuquerque, El Paso, Tulsa, Baton Rouge, Honolulu, Fresno, Grand Rapids,
 
 **Notes on PPC** 
 
-PPC can vary base on the size, type, location, market size, competition, etc. It can easly range from $0.05 to $85. More competitive markets generally have much higher prices. While the bulk of clicks will earn in the $0.05-$0.60 range the most expensive clicks can be major revenue drivers.  
+PPC can vary base on the size, type, location, market size, competition, etc. It can easily range from $0.05 to $85. More competitive markets generally have much higher prices. While the bulk of clicks will earn in the $0.05-$0.60 range the most expensive clicks can be major revenue drivers.  
 
 [Most Expensive](http://www.wordstream.com/articles/most-expensive-keywords)
 
