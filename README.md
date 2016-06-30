@@ -5,7 +5,7 @@ This is a chart of useful numbers, rates, and conversions to help with estimatio
 | Populations   | About     | Actual    | Updated |
 | ------------- |-----------|-----------|---------|
 | World         | 7B        | 7.4B      |6/28/16  |
-| NYC           | 20M       | 19.7M     |6/28/16  |
+| NYC           | 8M        | 8.40M     |6/28/16  |
 | US            | 300M      | 319M      |6/28/16  |
 | China         | 1B        | 1.357B    |6/28/16  |
 | India         | 1B        | 1.252B    |6/28/16  |
